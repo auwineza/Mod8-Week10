@@ -1,0 +1,5 @@
+I did not discuss this assignment with any classmates.
+
+I used scikit-learn for vectorization and nearest neighbor search, and referred to the provided example notebooks.
+
+I used ChatGPT to clarify instructions and debug code. All work was reviewed and understood before submission.
